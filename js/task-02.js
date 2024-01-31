@@ -17,5 +17,5 @@ ingredientsList.push(heading);
 
 console.log(heading)
 })
-
+ingredientsItems.append(...ingredientsList)
 
